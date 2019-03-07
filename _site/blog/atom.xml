@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>John Kennedy's Blog</title>
+ <link href="http://adhd-photographer.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://adhd-photographer.github.io/blog"/>
+ <updated>2019-03-06T21:27:19-08:00</updated>
+ <id>http://adhd-photographer.github.io/blog</id>
+ <author>
+   <nameJohn Kennedy  </name>
+   <email>sirjohnwilliam@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>John Kennedy, ADHD Photographer, Launches Site</title>
+   <link href="http://hankquinlan.github.io/blog/2018/07/26/john-site-launched"/>
+   <updated>2018-07-26T00:00:00-07:00</updated>
+   <id>http://hankquinlan.github.io//blog/2018/07/26/john-site-launched</id>
+   <content type="html">&lt;p&gt;So, with little knowledge, I decided to make a blog. We’ll see what happens!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
