@@ -1,3 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+.page-header {
+  color: #fff;
+  text-align: center;
+  background-color: #b90000;
+  background-image: linear-gradient(120deg, #631599, #b90000); }
+  @media screen and (min-width: 64em) {
+    .page-header {
+      padding: 5rem 6rem; } }
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    .page-header {
+      padding: 3rem 4rem; } }
+  @media screen and (max-width: 42em) {
+    .page-header {
+      padding: 2rem 1rem; } }
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
@@ -617,21 +636,6 @@ a {
       .btn + .btn {
         margin-top: 1rem;
         margin-left: 0; } }
-
-.page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
-  @media screen and (min-width: 64em) {
-    .page-header {
-      padding: 5rem 6rem; } }
-  @media screen and (min-width: 42em) and (max-width: 64em) {
-    .page-header {
-      padding: 3rem 4rem; } }
-  @media screen and (max-width: 42em) {
-    .page-header {
-      padding: 2rem 1rem; } }
 
 .project-name {
   margin-top: 0;
